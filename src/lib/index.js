@@ -1,3 +1,3 @@
-import khaTest from "./component/khaTest";
+import KhaTest from "./component/khaTest";
 
-export { khaTest };
+export { KhaTest };

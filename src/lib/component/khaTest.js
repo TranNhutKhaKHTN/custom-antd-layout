@@ -1,7 +1,7 @@
 import React from "react";
 
-function khaTest(props) {
+function KhaTest(props) {
   return <div>Kha test</div>;
 }
 
-export default khaTest;
+export default KhaTest;
