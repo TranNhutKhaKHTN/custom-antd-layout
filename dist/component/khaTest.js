@@ -9,9 +9,9 @@ var _react = _interopRequireDefault(require("react"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-function khaTest(props) {
+function KhaTest(props) {
   return /*#__PURE__*/_react.default.createElement("div", null, "Kha test");
 }
 
-var _default = khaTest;
+var _default = KhaTest;
 exports.default = _default;

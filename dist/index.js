@@ -3,7 +3,7 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-Object.defineProperty(exports, "khaTest", {
+Object.defineProperty(exports, "KhaTest", {
   enumerable: true,
   get: function get() {
     return _khaTest.default;
